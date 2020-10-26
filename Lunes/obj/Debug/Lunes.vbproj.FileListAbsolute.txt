@@ -10,3 +10,15 @@ C:\Users\infjgonzalez\Desktop\Lunes\obj\Debug\Lunes.vbproj.CoreCompileInputs.cac
 C:\Users\infjgonzalez\Desktop\Lunes\obj\Debug\Lunes.exe
 C:\Users\infjgonzalez\Desktop\Lunes\obj\Debug\Lunes.xml
 C:\Users\infjgonzalez\Desktop\Lunes\obj\Debug\Lunes.pdb
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\bin\Debug\Lunes.exe.config
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\bin\Debug\Lunes.exe
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\bin\Debug\Lunes.pdb
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\bin\Debug\Lunes.xml
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\obj\Debug\Lunes.vbprojAssemblyReference.cache
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\obj\Debug\Lunes.Form1.resources
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\obj\Debug\Lunes.Resources.resources
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\obj\Debug\Lunes.vbproj.GenerateResource.cache
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\obj\Debug\Lunes.vbproj.CoreCompileInputs.cache
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\obj\Debug\Lunes.exe
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\obj\Debug\Lunes.xml
+C:\Users\infjgonzalez\Source\Repos\jjgonzalezalonso\pruebalunes\Lunes\obj\Debug\Lunes.pdb
